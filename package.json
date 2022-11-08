@@ -1,0 +1,13 @@
+{
+  "name": "test-did-jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nickreynolds <nicholas.s.reynolds@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "did-jwt-vc": "^3.1.0"
+  },
+  "scripts": {
+    "test": "node ./src/test"
+  }
+}
